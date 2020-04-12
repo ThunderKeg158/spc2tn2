@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "hello ban HOANG nha" << endl;
+    cout << "hello ban HOANG" << endl;
     system("pause");
 }
